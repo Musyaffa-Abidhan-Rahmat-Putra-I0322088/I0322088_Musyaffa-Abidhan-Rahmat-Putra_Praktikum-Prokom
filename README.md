@@ -2,5 +2,6 @@
 Praktikum Programa Komputer
 
 Jadwal agenda futsal
--sabtu
+
 -kamis
+-minggu
